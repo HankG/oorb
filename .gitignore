@@ -37,3 +37,7 @@ python/pyoorb.sp_dir
 *.gcov
 *.gcda
 *.gcno
+
+
+# JetBrains
+.idea
